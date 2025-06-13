@@ -29,3 +29,5 @@ if (answer.userGuessedNumber === randomNumber) {
     console.log("You guessed wrong number");
     
 }
+
+console.log("The End");
