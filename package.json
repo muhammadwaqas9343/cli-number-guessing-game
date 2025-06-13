@@ -1,0 +1,22 @@
+{
+  "name": "cli-number-guessing-game-muhammad-waqas",
+  "version": "2.1.1",
+  "description": "This is number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }, 
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Waqas",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.6.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.8"
+  }
+}
